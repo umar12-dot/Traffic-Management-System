@@ -1,2 +1,2 @@
-# Traffic-Management-System
-A smart system that finds the shortest and fastest routes for vehicles while managing traffic efficiently using Data Structures and Algorithms. It also prioritizes emergency vehicles and helps reduce traffic congestion through optimized route management.
+# Traffic-Warden system
+A Traffic Warden System is a software application designed to help traffic authorities manage and control vehicle-related activities such as registration, monitoring, and issuing challans (fines) for violations like overspeeding, signal breaking, and illegal parking.
